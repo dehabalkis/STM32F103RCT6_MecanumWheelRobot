@@ -1,0 +1,3 @@
+C:/Users/balkis/STM32CubeIDE/workspace_1.13.2/STM32F103RCT6_MecanumWheelRobot/build/debug/build/CMakeFiles/STM32F103RCT6_MecanumWheelRobot.dir
+C:/Users/balkis/STM32CubeIDE/workspace_1.13.2/STM32F103RCT6_MecanumWheelRobot/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/balkis/STM32CubeIDE/workspace_1.13.2/STM32F103RCT6_MecanumWheelRobot/build/debug/build/CMakeFiles/rebuild_cache.dir

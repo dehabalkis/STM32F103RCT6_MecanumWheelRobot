@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "STM32F103RCT6_MecanumWheelRobot",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "STM32F103RCT6_MecanumWheelRobot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STM32F103RCT6_MecanumWheelRobot-Debug-bcaad1e826afd8e1b407.json",
+					"name" : "STM32F103RCT6_MecanumWheelRobot",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/balkis/STM32CubeIDE/workspace_1.13.2/STM32F103RCT6_MecanumWheelRobot/build/debug/build",
+		"source" : "C:/Users/balkis/STM32CubeIDE/workspace_1.13.2/STM32F103RCT6_MecanumWheelRobot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
